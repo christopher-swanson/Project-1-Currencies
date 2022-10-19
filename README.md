@@ -28,7 +28,7 @@ Through websites like "Kaggle.com" and "Worldbank.org", our group pulled data ex
 
 ---
 
-##Installations: 
+## Installations: 
 
 Monte Carlo (MC) - The simulation is used to determine total possible outcomes when there exists a potential for random variables influencing the outcomes. In this project, MC would 
 
