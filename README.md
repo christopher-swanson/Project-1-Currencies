@@ -1,8 +1,10 @@
 # Project-1-Currencies
 
-Objective: 
+## Objective: 
 
 Calculating the variance of different world leading currencies and highlight events with visualization using USD as the baseline. 
+
+---
 
 Purpose:
 
