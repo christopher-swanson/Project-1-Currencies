@@ -47,6 +47,8 @@ Numpy -
 
 <img width="641" alt="Screen Shot 2022-10-22 at 9 25 00 AM" src="https://user-images.githubusercontent.com/111773401/197361545-b5099e8a-53b6-473b-b453-2a1af112aff1.png">
 
+<img width="646" alt="Screen Shot 2022-10-22 at 1 40 15 PM" src="https://user-images.githubusercontent.com/111773401/197361570-761080fe-dba5-4280-9b8f-dc36aae50914.png">
+
 
 ## Analysis Summary: 
 
