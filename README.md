@@ -1,4 +1,4 @@
-# Project-1-Currencies
+# Leading World Currency Impacts
 
 ## Objective: 
 
@@ -18,7 +18,7 @@ Analysis of trends and history is essential in order to gather a meaningful inte
 
 Aside from variance, interest rate information on these currencies are important to understand as well. Higher interest rates for instance can cause the exchange rate to rise since it would attract foreign capital. 
 
-USD as Baseline:
+USD as Baseline: Currencies in the forex market have typically been traded against the USD since near the end of WWII. A primary motivation for this at the time was that the US was essentially the only major nation to come out of the war economically strong. Since then, the USD has traditionally been used as a backbone for forex. 
 
 ---
 
@@ -30,13 +30,37 @@ Through websites like "Kaggle.com" and "Worldbank.org", our group pulled data ex
 
 ## Installations: 
 
-Monte Carlo (MC) - The simulation is used to determine total possible outcomes when there exists a potential for random variables influencing the outcomes. In this project, MC would 
+Monte Carlo (MC) - The simulation is used to determine total possible outcomes when there exists a potential for random variables influencing the outcomes. 
+
+Pandas - 
+
+hvplot - 
+
+Numpy - 
+
+
 
 ---
 
 
 ## Project Examples:
 
----
+
 
 ## Analysis Summary: 
+
+Analysis Summary: 
+
+Our graphing of the chosen currencies in relation to the USD have allowed us to notice key 
+events in the data. Based on the events researched we have determined three predictors: 
+1) War 
+2) Political
+3) Financial 
+
+The usage of “war” as a predictor is straightforward, and the relationship between war and involved countries’ economic standing has been understood for some time. The “political” predictor refers to regime change, coups, major political unrest, etc. It is understood that as political turmoil increases, higher interest rates may result, which in turn can lower a currency’s exchange rate value. The final “financial” predictor includes bailouts, huge trade deficits, IMF devaluation and speculation, and so on. Beyond these general predictors, it is important to note that other factors may also be influential and consequently worth examining as well. 
+
+
+## Next Steps:
+
+Beyond the project, other factors we can look into include inflation rate, debt, and economic stability. 
+
