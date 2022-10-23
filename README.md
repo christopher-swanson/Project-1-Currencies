@@ -49,13 +49,13 @@ Numpy -
 
 <img width="646" alt="Screen Shot 2022-10-22 at 1 40 15 PM" src="https://user-images.githubusercontent.com/111773401/197361570-761080fe-dba5-4280-9b8f-dc36aae50914.png">
 
+The above graphs reveal each currency's "delta", thus revealing the currencies' values over time. 
+
 ## Barriers, API, and CSV
 
-API Issues - 
+API Issues - Issues with usage, CSV used instead for models
 
-API Interegration - 
-
-CSV vs API - 
+CSV vs API - Both are used to important information. CSV - useful for storing small, manageable data sets i.e. data that can go on a typical spreadsheet. API - Has two systems communicate to allow for the sharing of data set. APIs can be fast and efficient, and are useful live. 
 
 Overcoming - We reached out to AskBCS, Tutors, and TA's to promptly address obstacles.
 
