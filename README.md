@@ -61,8 +61,6 @@ Overcoming - We reached out to AskBCS, Tutors, and TA's to promptly address obst
 
 ## Analysis Summary: 
 
-Analysis Summary: 
-
 Our graphing of the chosen currencies in relation to the USD have allowed us to notice key 
 events in the data. Based on the events researched we have determined three predictors: 
 1) War 
