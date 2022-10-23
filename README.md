@@ -32,11 +32,11 @@ Through websites like "Kaggle.com" and "Worldbank.org", our group pulled data ex
 
 Monte Carlo (MC) - The simulation is used to determine total possible outcomes when there exists a potential for random variables influencing the outcomes. 
 
-Pandas - 
+Pandas - Software library used for data analysis and manipulation.
 
-hvplot - 
+hvplot - Offers high-level plotting for APIs. 
 
-Numpy - 
+Numpy - Library used for working with arrays. 
 
 
 
